@@ -82,7 +82,7 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![ZuleMD github stats](https://github-readme-stats.vercel.app/api?username=ZuleMD&show_icons=true&theme=tokyonight&count_private=true) | ![ZuleMD GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuleMD&theme=tokyonight) |
+ ![ZuleMD GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuleMD&theme=tokyonight) |
 | -- | -- |
 
 <hr>
