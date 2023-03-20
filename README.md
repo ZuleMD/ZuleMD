@@ -20,7 +20,7 @@
 <!--- -- Brief Info ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-There's nothing quite like the thrill of discovering new frameworks, and libraries that can make a real difference in solving real-world problems. <br>
+There's nothing quite like the thrill of discovering new frameworks and libraries that can make a real difference in solving real-world problems, whether in web or mobile development. <br>
 
 - :computer: Full-stack web and mobile developer with experience in 3 internships.
 - 🚀 Strong problem-solving skills and a creative thinker.
@@ -40,11 +40,11 @@ There's nothing quite like the thrill of discovering new frameworks, and librari
 
 # Skills? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <div align="center">
-     <img src="https://img.shields.io/badge/React-Native-323330?style=for-the-badge&logo=java&logoColor=F7DF1E"/>
-     <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=F7DF1E"/>
+     <img src="https://img.shields.io/badge/React-Native-339933?style=for-the-badge&logo=reactnative&logoColor=F7DF1E"/>
+     <img src="https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/Kotlin-323330?style=for-the-badge&logo=kotlin&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript-CC6699?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -81,7 +81,7 @@ There's nothing quite like the thrill of discovering new frameworks, and librari
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=ZuleMD&show_icons=true&theme=tokyonight&count_private=true) | ![ZULEMD GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuleMD&theme=tokyonight) |
+| ![ZuleMD github stats](https://github-readme-stats.vercel.app/api?username=ZuleMD&show_icons=true&theme=tokyonight&count_private=true) | ![ZuleMD GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuleMD&theme=tokyonight) |
 | -- | -- |
 
 <hr>
