@@ -41,6 +41,7 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 # Skills? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <div align="center">
      <img src="https://img.shields.io/badge/React-Native-339933?style=for-the-badge&logo=reactnative&logoColor=F7DF1E"/>
+   <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/><br>
      <img src="https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/Kotlin-323330?style=for-the-badge&logo=kotlin&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E"/>
@@ -56,6 +57,7 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Mysql-1572B6?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
