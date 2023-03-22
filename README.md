@@ -64,6 +64,7 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -74,7 +75,7 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 <a href="https://www.linkedin.com/in/mariem-derbali-163725200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mariem.derbali20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
 
@@ -84,7 +85,7 @@ There's nothing quite like the thrill of discovering new frameworks and librarie
 
  ![ZuleMD GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuleMD&theme=tokyonight) 
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
