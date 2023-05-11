@@ -22,7 +22,6 @@
 
 There's nothing quite like the thrill of discovering new frameworks and libraries that can make a real difference in solving real-world problems, whether in web or mobile development. <br>
 
-- :computer: Full-stack web and mobile developer with experience in 3 internships.
 - 🚀 Strong problem-solving skills and a creative thinker.
 - 🔥 Enjoys playing chess in free time when not coding.
 
